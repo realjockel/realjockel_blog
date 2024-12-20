@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63299/tags/ethereum/</loc>
+    <loc>https://jockel.me/</loc>
+    <lastmod>2024-12-20T15:57:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jockel.me/tags/noorg/</loc>
+    <lastmod>2024-12-20T15:57:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jockel.me/posts/</loc>
+    <lastmod>2024-12-20T15:57:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jockel.me/tags/rust/</loc>
+    <lastmod>2024-12-20T15:57:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jockel.me/tags/</loc>
+    <lastmod>2024-12-20T15:57:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jockel.me/posts/why-plain-text-matters-and-its-endless-possibilities/</loc>
+    <lastmod>2024-12-20T15:57:02+01:00</lastmod>
+  </url><url>
+    <loc>https://jockel.me/tags/ethereum/</loc>
     <lastmod>2024-12-20T12:06:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:63299/posts/exploring-web3-gaming-mmorpgs/</loc>
+    <loc>https://jockel.me/posts/exploring-web3-gaming-mmorpgs/</loc>
     <lastmod>2024-12-20T12:06:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:63299/tags/gaming/</loc>
+    <loc>https://jockel.me/tags/gaming/</loc>
     <lastmod>2024-12-20T12:06:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:63299/</loc>
+    <loc>https://jockel.me/tags/web3/</loc>
     <lastmod>2024-12-20T12:06:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:63299/posts/</loc>
-    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63299/tags/</loc>
-    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63299/tags/web3/</loc>
-    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63299/about/</loc>
+    <loc>https://jockel.me/about/</loc>
     <lastmod>2024-12-20T12:00:16+01:00</lastmod>
   </url>
 </urlset>
