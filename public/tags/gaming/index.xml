@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaming on Jockels Dev Blog</title>
-    <link>http://localhost:1313/tags/gaming/</link>
+    <link>http://localhost:63299/tags/gaming/</link>
     <description>Recent content in Gaming on Jockels Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>jockel.me</copyright>
     <lastBuildDate>Fri, 20 Dec 2024 12:06:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63299/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring Web3 Gaming and MMORPGs</title>
-      <link>http://localhost:1313/posts/exploring-web3-gaming-mmorpgs/</link>
+      <link>http://localhost:63299/posts/exploring-web3-gaming-mmorpgs/</link>
       <pubDate>Fri, 20 Dec 2024 12:06:24 +0100</pubDate>
-      <guid>http://localhost:1313/posts/exploring-web3-gaming-mmorpgs/</guid>
+      <guid>http://localhost:63299/posts/exploring-web3-gaming-mmorpgs/</guid>
       <description>&lt;h1 id=&#34;exploring-ideas-for-web3-and-mmorpgs-with-world-of-warcraft&#34;&gt;Exploring Ideas for Web3 and MMORPGs with World of Warcraft&lt;/h1&gt;&#xA;&lt;p&gt;Visit &lt;a href=&#34;https://github.com/realjockel/wow_web3&#34;&gt;WoW Web3 on GitHub&lt;/a&gt; for the full codebase and instructions.&lt;/p&gt;&#xA;&lt;p&gt;Video games have always been about adventure, exploration, and the thrill of achieving something grand. But what if the achievements you earn, the guilds you build, and the worlds you conquer could belong to you, the player, in a more tangible, real-world way? Web3 promises just that, bringing decentralized technology into the gaming realm and letting players truly own their digital experiences. In this post, we’ll dive into how one educational project leverages Web3 concepts inside a World of Warcraft (WoW) emulator environment, opening the door to a new era of player-driven gameplay.&lt;/p&gt;</description>
     </item>
   </channel>

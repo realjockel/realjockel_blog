@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jockels Dev Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:63299/tags/</link>
     <description>Recent content in Tags on Jockels Dev Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>jockel.me</copyright>
     <lastBuildDate>Fri, 20 Dec 2024 12:06:24 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63299/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ethereum</title>
-      <link>http://localhost:1313/tags/ethereum/</link>
+      <link>http://localhost:63299/tags/ethereum/</link>
       <pubDate>Fri, 20 Dec 2024 12:06:24 +0100</pubDate>
-      <guid>http://localhost:1313/tags/ethereum/</guid>
+      <guid>http://localhost:63299/tags/ethereum/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaming</title>
-      <link>http://localhost:1313/tags/gaming/</link>
+      <link>http://localhost:63299/tags/gaming/</link>
       <pubDate>Fri, 20 Dec 2024 12:06:24 +0100</pubDate>
-      <guid>http://localhost:1313/tags/gaming/</guid>
+      <guid>http://localhost:63299/tags/gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>Web3</title>
-      <link>http://localhost:1313/tags/web3/</link>
+      <link>http://localhost:63299/tags/web3/</link>
       <pubDate>Fri, 20 Dec 2024 12:06:24 +0100</pubDate>
-      <guid>http://localhost:1313/tags/web3/</guid>
+      <guid>http://localhost:63299/tags/web3/</guid>
       <description></description>
     </item>
   </channel>
