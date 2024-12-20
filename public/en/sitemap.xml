@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:63041/en/tags/ethereum/</loc>
+    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63041/en/posts/exploring-web3-gaming-mmorpgs/</loc>
+    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63041/en/tags/gaming/</loc>
+    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63041/en/</loc>
+    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63041/en/posts/</loc>
+    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63041/en/tags/</loc>
+    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63041/en/tags/web3/</loc>
+    <lastmod>2024-12-20T12:06:24+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63041/en/about/</loc>
+    <lastmod>2024-12-20T12:00:16+01:00</lastmod>
+  </url>
+</urlset>

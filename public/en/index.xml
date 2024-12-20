@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jockels Dev Blog</title>
+    <link>http://localhost:63041/en/</link>
+    <description>Recent content on Jockels Dev Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>jockel.me</copyright>
+    <lastBuildDate>Fri, 20 Dec 2024 12:06:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:63041/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring Web3 Gaming and MMORPGs</title>
+      <link>http://localhost:63041/en/posts/exploring-web3-gaming-mmorpgs/</link>
+      <pubDate>Fri, 20 Dec 2024 12:06:24 +0100</pubDate>
+      <guid>http://localhost:63041/en/posts/exploring-web3-gaming-mmorpgs/</guid>
+      <description>&lt;h1 id=&#34;exploring-ideas-for-web3-and-mmorpgs-with-world-of-warcraft&#34;&gt;Exploring Ideas for Web3 and MMORPGs with World of Warcraft&lt;/h1&gt;&#xA;&lt;p&gt;Visit &lt;a href=&#34;https://github.com/realjockel/wow_web3&#34;&gt;WoW Web3 on GitHub&lt;/a&gt; for the full codebase and instructions.&lt;/p&gt;&#xA;&lt;p&gt;Video games have always been about adventure, exploration, and the thrill of achieving something grand. But what if the achievements you earn, the guilds you build, and the worlds you conquer could belong to you, the player, in a more tangible, real-world way? Web3 promises just that, bringing decentralized technology into the gaming realm and letting players truly own their digital experiences. In this post, we’ll dive into how one educational project leverages Web3 concepts inside a World of Warcraft (WoW) emulator environment, opening the door to a new era of player-driven gameplay.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:63041/en/about/</link>
+      <pubDate>Fri, 20 Dec 2024 12:00:16 +0100</pubDate>
+      <guid>http://localhost:63041/en/about/</guid>
+      <description>&lt;p&gt;This is my personal website. I am a data engineer specializing in Web3 and have worked on various projects related to on-chain security and data. I am excited about blockchain, Rust, game development, open source, and combining crazy ideas. I hope you enjoy reading my posts. If you have any questions or suggestions, feel free to contact me.&lt;/p&gt;&#xA;&lt;p&gt;See:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://noorg.dev&#34;&gt;Noorg&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/realJockel/wow_web3&#34;&gt;WoW Web3&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
